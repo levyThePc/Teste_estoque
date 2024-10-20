@@ -1,0 +1,1 @@
+lista_alunos.append(aluno)

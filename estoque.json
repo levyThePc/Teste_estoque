@@ -1,0 +1,18 @@
+{
+    "lapis": {
+        "quantidade": 20,
+        "preco": 50.0
+    },
+    "caderno": {
+        "quantidade": 2,
+        "preco": 22.0
+    },
+    "1": {
+        "quantidade": 50,
+        "preco": 250.0
+    },
+    "": {
+        "quantidade": 20,
+        "preco": 20.0
+    }
+}

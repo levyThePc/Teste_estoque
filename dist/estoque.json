@@ -1,0 +1,14 @@
+{
+    "camiseta": {
+        "quantidade": 20,
+        "preco": 15.0
+    },
+    "": {
+        "quantidade": 2,
+        "preco": 20.0
+    },
+    "xxxxx": {
+        "quantidade": 50,
+        "preco": 220.0
+    }
+}

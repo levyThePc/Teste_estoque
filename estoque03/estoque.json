@@ -1,0 +1,14 @@
+{
+    "produto1": {
+        "quantidade": 10,
+        "preco": 5.5
+    },
+    "produto2": {
+        "quantidade": 20,
+        "preco": 15.0
+    },
+    "produto3": {
+        "quantidade": 5,
+        "preco": 25.75
+    }
+}
